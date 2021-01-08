@@ -1,18 +1,22 @@
-# GAIH Student Repo Example
+# Sarvjeet Singh  
 ![](img/logo.png)
 
 **Course Date:**
-**Name:** Elif  
-**Surname:** Yiğit  
-**Email:** elif89876@gmail.com  
+**Name:** Sarvjeet 
+**Surname:** Singh 
+**Email:** sarvjeet.19b121001@abes.ac.in 
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+
 
 ## Project Name
 Description...
 
 ## Requirements
 Some python libraries
+1. Numpy
+2. Pandas
+3. Sklearn
+4. Seaborn
 
 ---
 
