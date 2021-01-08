@@ -1,7 +1,7 @@
 # Sarvjeet Singh  
 ![](img/logo.png)
 
-**Course Date:**8 Jan 2021
+**Course Date:** 8 Jan 2021
 
 **Name:** Sarvjeet 
 
