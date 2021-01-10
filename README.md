@@ -12,7 +12,7 @@
 
 
 ## Project Name
-Description...
+A clasiffication problem to predict the wine quality from the given data set winequality.csv
 
 ## Requirements
 Some python libraries
